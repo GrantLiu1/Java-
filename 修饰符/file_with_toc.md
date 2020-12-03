@@ -1,4 +1,4 @@
-<a name="index">**Index**</a>
+
 &emsp;<a href="#0">一、类</a>  
 &emsp;&emsp;<a href="#1">  1.访问修饰符：公共类修饰符public</a>  
 &emsp;&emsp;<a href="#2">2.非访问控制符：抽象类修饰符 abstract 、最终类修饰符 final  </a>  
@@ -9,7 +9,7 @@
 &emsp;&emsp;<a href="#7">1.访问控制符</a>  
 &emsp;&emsp;<a href="#8">2.非访问控制符</a>  
 &emsp;<a href="#9">四、访问控制修饰符总结</a>  
-## <a name="0">一、类</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## <a style="float:right;text-decoration:none;" href="#index"><a name="0">一、类</a></a>
 ### <a name="1">  1.访问修饰符：公共类修饰符public</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
 &emsp;	公共类修饰符 public ： Java 语言中类的访问控制符只有 public 即公共的。每个 Java 程序的有且只有一个类是 public，它被称为主类 ，其他外部类无访问控制修饰符，具有包访问性。注意：一个类的内部类可以被其他访问控制修饰符protected、缺省默认(default、friendly)、private修饰，相当于类的成员。  
