@@ -1,8 +1,6 @@
 ## 一、类
-
 ###   1.访问修饰符：公共类修饰符public
-    公共类修饰符 public ： Java 语言中类的访问控制符只有 public 即公共的。每个 Java 程序的有且只有一个类是 public，它被称为主类 ，其他外部类无访问控制修饰符，具有包访问性。注意：一个类的内部类可以被其他访问控制修饰符protected、缺省默认(default、friendly)、private修饰，相当于类的成员。
-
+>    公共类修饰符 public ： Java 语言中类的访问控制符只有 public 即公共的。每个 Java 程序的有且只有一个类是 public，它被称为主类 ，其他外部类无访问控制修饰符，具有包访问性。注意：一个类的内部类可以被其他访问控制修饰符protected、缺省默认(default、friendly)、private修饰，相当于类的成员。
   注意：Java类或属性如果缺省访问控制修饰符，就属于default/friendly类型修饰符，但是实际上Java中并没有名为default或者friendly的访问修饰符(即不能使用default或者friendly定义类或变量)，只是为了方便标识缺省访问控制符的情况。
 
 ### 2.非访问控制符：抽象类修饰符 abstract 、最终类修饰符 final
